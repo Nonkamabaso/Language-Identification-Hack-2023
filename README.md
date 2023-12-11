@@ -14,3 +14,11 @@ train_set.csv - the training set
 test_set.csv - the test set
 
 sample_submission.csv - a sample submission file in the correct format
+
+## Evaluation
+The evaluation metric for this competition is the [Mean F1-Score]. The F1 score considers precision and recall, favoring models with balanced performance on both metrics. 
+
+## Contributor
+Nonkanyiso Mabaso
+## Citation
+ExploreAI Academy. (2023). South African Language Identification Hack 2023. Kaggle. 
